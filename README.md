@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hi humans!
+my name is nikhil. i like python and R
